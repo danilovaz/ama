@@ -21,3 +21,6 @@ Anything means *anything*. Personal questions. Work. Life. Code. Whatever.
 - [Read more AMAs](https://github.com/sindresorhus/amas)
 - [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
 - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/danilovaz/ama/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
