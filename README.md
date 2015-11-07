@@ -1,6 +1,6 @@
 # Ask me anything!
 
-## [Ask a question](../../issues/new) [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
+## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
 Everyday I get lots of questions by email. This way anyone can read the answer!
 
